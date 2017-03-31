@@ -31,6 +31,7 @@ public abstract class PostListFragment extends Fragment {
     // [START define_database_reference]
     private DatabaseReference mDatabase;
     // [END define_database_reference]
+//hjj
 
     private FirebaseRecyclerAdapter<Post, PostViewHolder> mAdapter;
     private RecyclerView mRecycler;
